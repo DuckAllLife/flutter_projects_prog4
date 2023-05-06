@@ -1,0 +1,3 @@
+[submodule "exer_dices"]
+	path = exer_dices
+	url = https://github.com/DuckAllLife/sum_dice_app.git
