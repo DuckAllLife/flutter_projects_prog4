@@ -44,3 +44,4 @@ app.*.map.json
 **/ios
 **/linux
 **/windows
+/class_exerc
